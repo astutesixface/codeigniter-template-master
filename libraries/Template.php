@@ -1,9 +1,9 @@
 <?php
 /**
  * @name        CodeIgniter Template Library
- * @author      Jens Segers
- * @link        http://www.jenssegers.be
- * @license     MIT License Copyright (c) 2012 Jens Segers
+ * @author      Sixface
+ * @link        http://www.astutesixface.com
+ * @license     MIT License Copyright (c) 2016 Sixface
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
